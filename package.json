@@ -1,0 +1,17 @@
+{
+  "name": "blog-test",
+  "version": "0.0.1",
+  "description": "testing out metalsmith",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "metalsmith": "^2.1.0",
+    "metalsmith-markdown": "^0.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
