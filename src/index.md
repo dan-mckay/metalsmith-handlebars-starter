@@ -1,6 +1,8 @@
 ---
-title: Home
+layout: main.hbs
+title: Story time
 ---
-Hi, this is a page - hopefully the first of many ;)
 
-###Some info!
+*Once* upon a time there was a list of names:
+- Ada **Lovelace**
+- Charles **Babbage**
